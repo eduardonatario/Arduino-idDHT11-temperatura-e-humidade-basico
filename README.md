@@ -11,3 +11,5 @@ LICENCE:	GPL v3 (http://www.gnu.org/licenses/gpl.html)
 DATASHEET: http://www.micro4you.com/files/sensor/DHT11.pdf
 	
 Based on DHT11 library: http://playground.arduino.cc/Main/DHT11Lib
+
+Simplified from this complete github: https://github.com/niesteszeck/idDHT11
