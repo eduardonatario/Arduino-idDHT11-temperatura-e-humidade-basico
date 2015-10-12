@@ -86,3 +86,4 @@ void loop()
 // tempo delay para exibicao das informacoes no monitor serial 
   delay(6000);
 }
+
